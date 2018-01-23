@@ -53,7 +53,7 @@ body {
 }
 
 .navbar-brand {
-    background: url("/../assets/img/logo.png") center / cover no-repeat;
+    background: url("/ShiptHub/assets/img/logo.png") center / cover no-repeat;
     background-origin: content-box;
     width: 58px;
     padding: 0px;
@@ -72,7 +72,7 @@ body {
 ========================================================================== */
 
 .jumbotron {
-    background: url("/../assets/img/github.jpg")no-repeat center center;
+    background: url("/ShiptHub/assets/img/github.jpg")no-repeat center center;
     background-size: cover;
     max-width: 100%;
     box-shadow: 0 1px 2px #C3C3C3;
@@ -295,7 +295,7 @@ img.img-responsive.b {
 #circle .back {
     display: inline;
     position: absolute;
-    background: url("/../assets/img/search.svg") #FFF;
+    background: url("/ShiptHub/assets/img/search.svg") #FFF;
     margin: 0 auto;
     background-size: 35%;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@ img.img-responsive.b {
 }
 
 .first.button .front {
-    background: url("/../assets/img/ghublogo.png") #FFF;
+    background: url("/ShiptHub/assets/img/ghublogo.png") #FFF;
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -419,7 +419,7 @@ img.img-responsive.b {
 
 @media (max-width: 767px) {
     .navbar-brand {
-        background: url("/../assets/img/logo.png") center / cover no-repeat;
+        background: url("/ShiptHub/assets/img/logo.png") center / cover no-repeat;
         background-origin: content-box;
         width: 58px;
         padding: 0px;
@@ -567,7 +567,7 @@ img.img-responsive.b {
         border-radius: 50%;
     }
     .first.button .front {
-        background: url("/../assets/img/ghublogo.png") #FFF;
+        background: url("/ShiptHub/assets/img/ghublogo.png") #FFF;
         background-size: 80%;
         background-repeat: no-repeat;
         background-position: center;
