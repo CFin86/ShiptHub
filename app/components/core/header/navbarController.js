@@ -2,7 +2,7 @@ app.controller("NavbarController", ['SEOService', '$location', function (SEOServ
     "use strict";
     SEOService.setSEO({
         title: 'ShiptHub',
-        image: '/myPortfolio/assets/img/logo.png',
+        image: 'assets/img/logo.png',
         url: $location.url(),
         description: 'An Incredible Github Search Service'
     });
